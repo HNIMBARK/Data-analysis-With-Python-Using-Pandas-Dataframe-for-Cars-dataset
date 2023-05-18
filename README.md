@@ -5,5 +5,7 @@
 **Requirments :** 
 
 **Introduction to Python.**
+
 **Learn Python Fundamentals for data science.**
+
 **Ability to use Google Colab.**
